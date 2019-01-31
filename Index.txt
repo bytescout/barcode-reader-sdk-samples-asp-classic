@@ -1,4 +1,4 @@
 ## Index of source code examples:
 
-\read barcode from image
-\read Barcode From PDF
+\Read Barcode From Image
+\Read Barcode From PDF
